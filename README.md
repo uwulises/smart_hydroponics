@@ -7,13 +7,12 @@ ArduinoIotCloud example for CD2201
 ## Arduino IoT Cloud: Thing
 
 ### Variables
+
 - float dht22_hr;
 - float dht22_temp
-- float dht22_temp;
 - String sensor_msg;
 - int soil_mci;
 - int soil_sparkfun;
-
 
 ## Components
 - Arduino NANO ESP32
